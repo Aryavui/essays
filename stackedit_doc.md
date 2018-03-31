@@ -225,21 +225,7 @@ $$
 \oint_C x^3dx + 4y^2dy
 $$
 
-$$
-2 = \left(
- \frac{\left(3-x\right) \times 2}{3-x}
- \right)
-\sum_{m=1}^\infty\sum_{n=1}^\infty\frac{m^2\,n}
- {3^m\left(m\,3^n+n\,3^m\right)}
-$$
 
-$$
-\phi_n(\kappa) =
- \frac{1}{4\pi^2\kappa^2} \int_0^\infty
- \frac{\sin(\kappa R)}{\kappa R}
- \frac{\partial}{\partial R}
- \left[R^2\frac{\partial D_n(R)}{\partial R}\right]\,dR
-$$
 
 > You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
@@ -273,5 +259,5 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NDI2NjQ3M119
+eyJoaXN0b3J5IjpbMTA3NDcxMjA5M119
 -->
