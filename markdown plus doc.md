@@ -71,7 +71,9 @@ Start numbering with offset:
 65. foo
 66. bar
 
-1949\.  
+In addition, You can avoid a number as a list item by escaping character:
+
+1949\.  The People's Republic of China was founded.
 
 
 ## Code
@@ -101,23 +103,6 @@ var foo = function (bar) {
 
 console.log(foo(5));
 ```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
 
 ## Links
 
@@ -287,5 +272,5 @@ C --> D
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODEwNzUzOF19
+eyJoaXN0b3J5IjpbMTYzNzYxNzk0M119
 -->
